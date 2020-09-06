@@ -1,0 +1,3 @@
+This is third Git work flow file
+
+In this file we add some changes and forward it to development branch
